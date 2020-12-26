@@ -468,7 +468,7 @@ class Cartoon:
         self.eye2(50, 110)
         t.hideturtle()
 
-    def topi(self, x, y):
+    def cap(self, x, y):
         self.meme(x, y)
         t = self.t
         t.fillcolor('#CD0000')
